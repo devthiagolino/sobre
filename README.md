@@ -1,7 +1,7 @@
-# sobre
+# about
 Um repositório apenas pra que eu possa ir adicionando os projetos que eu participei ou desenvolvi.
 
-Olá! Então, apenas pra nível de conhecimento e portifólio estou disponibilizando essa lista pra que eu mesmo possa saber de quais projetos eu participei e quais eu desenvolvi.
+Então, apenas pra nível de conhecimento e portifólio estou disponibilizando essa lista pra que eu mesmo possa saber de quais projetos eu participei e quais eu desenvolvi.
 
 <h3>Backend</h3>
 
