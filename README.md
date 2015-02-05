@@ -18,7 +18,7 @@ Tenho domínio básico de inglês, sou universitário no IFAL (Instituto Federal
   <li><a href="malito:devthiagolino@gmail.com">gmail</a></li>
 </ul>
 
-<h3>Jobs</h3>
+# Jobs
 
 <ul>
   <li><a href="http://netvizion.com.br">NetVizion - Freela</a></li>
