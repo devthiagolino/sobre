@@ -2,16 +2,23 @@
 
 Profissional competitivo, sempre se atualizando, nenhum outro vício além de desenvolver, gosto muito de linhas de código e pretendo chegar longe, mas muito longe!
 
-Atualmente sou Desenvolvedor Web Pleno na agência digital P!us, já estou na empresa há mais de 2 anos, desenvolvo aplicações utilizando metodologias ágeis, design patterns, etc.
+Já participei da <a href="http://id5.com.br">ID5</a>, atualmente sou Desenvolvedor Web na agência digital <a href="http://plus.com.vc">P!us</a>, estou na empresa há 2 anos.
 
-Domino algumas tecnologias tais como, PHP, MySql/SQL, JS (jQuery), Angular.js, Rediz, WP, CSS.
+Meu dia a dia, tem algumas tecnologias tais como, PHP, MySql/SQL, JS (jQuery, AngularJs, NodeJs, ExpressJs), Wordpress, etc.
 Tenho conhecimento em alguns frameworks, tais como CakePhp e Laravel.
 
-Tenho domínio básico de inglês, sou universitário do IFAL (Instituto Federal de Alagoas) e curso Sistemas de Informação no período da noite.
+Tenho domínio básico de inglês, sou universitário no IFAL (Instituto Federal de Alagoas) cursando Sistemas de Informação.
 
-Então, apenas pra nível de conhecimento e portifólio estou disponibilizando essa lista pra compartilhamento dos projetos nos quais eu participei ou desenvolvi.
+# Contato
 
-<h3>Backend</h3>
+<ul>
+  <li><span>+55 82 9109 7318</span></li>
+  <li><a href="https://twitter.com/devthiagolino">twitter</span></li>
+  <li><a href="https://www.facebook.com/thiagolinosantos">facebook</span></li>
+  <li><a href="malito:devthiagolino@gmail.com">gmail</a></li>
+</ul>
+
+<h3>Jobs</h3>
 
 <ul>
   <li><a href="http://netvizion.com.br">NetVizion - Freela</a></li>
@@ -24,5 +31,3 @@ Então, apenas pra nível de conhecimento e portifólio estou disponibilizando e
   <li><a href="http://www.petrosynergy.com.br/">Petrosynergy</a><a href="http://plus.com.vc"> - &#169; Plus Agência Digital</a></li>
   <li>Entre outros...</li>
 </ul>
-
-Sempre que puder atualizarei a lista...
